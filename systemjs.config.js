@@ -52,4 +52,4 @@
     packages: packages
   };
   System.config(config);
-})(this)
+})(this);

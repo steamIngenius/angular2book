@@ -1,0 +1,1 @@
+{"version":3,"file":"todos-list.component.js","sourceRoot":"","sources":["todos-list.component.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,qBAA0B,eAAe,CAAC,CAAA;AAW1C;IAEE;IAAe,CAAC;IARlB;QAAC,gBAAS,CAAC;YACT,QAAQ,EAAE,MAAM,CAAC,EAAE;YACnB,QAAQ,EAAE,YAAY;YACtB,MAAM,EAAE,CAAC,OAAO,CAAC;YACjB,WAAW,EAAE,2BAA2B;SACzC,CAAC;;iBAAA;IAIF,gBAAC;AAAD,CAAC,AAHD,IAGC;AAHY,iBAAS,YAGrB,CAAA"}

@@ -9,7 +9,7 @@ import { Todo } from './todos/shared/todo.model';
   templateUrl: 'app.component.html',
 })
 export class AppComponent {
-  todos: Array<string>;
+  todos: Array<Todo>;
   constructor() {
     this.todos = [
       new Todo("Todo 1", "Todo 1 Description", "Micah"),

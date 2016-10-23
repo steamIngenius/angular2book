@@ -12,4 +12,8 @@ import { Todo } from './shared/todo.model';
 export class TodoItem {
   todo: Todo;
   constructor() {}
+
+  deleteTodo() {
+    this.todo.setToCompleted();
+  }
 }

@@ -1,6 +1,8 @@
 <ul class="list-group">
   <div *ngFor="let todo of todos">
-    <li class="list-group-item">
+    <li
+      *ngIf="!todo.completed"
+      class="list-group-item">
       <todo-item [todo]="todo"></todo-item>
     </li>
   </div>
